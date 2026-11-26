@@ -1,5 +1,12 @@
 <div align="center">
 
+<!-- 3D EXECUTIVE PORTRAIT -->
+<a href="https://szmughal.vercel.app">
+  <img src="https://raw.githubusercontent.com/szmughal/szmughal/main/saad-zafar-3d.jpg" alt="Saad Zafar — 3D Executive Portrait" width="210" style="border-radius: 24px;" />
+</a>
+
+<br />
+
 <!-- HERO BANNER -->
 <a href="https://szmughal.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=C2F26B&background=080808&center=true&vCenter=true&width=900&height=70&lines=SAAD+ZAFAR+%E2%80%94+IT+MANAGER+%26+AI+AUTOMATION;FROM+THE+PATCH+PANEL+TO+THE+P%26L;ENTERPRISE+INFRASTRUCTURE+%C2%B7+ODOO+ERP+%C2%B7+PYTHON+OCR" alt="Saad Zafar Typing SVG" />
