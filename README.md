@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<a href="https://saadzafar.vercel.app">
+<a href="https://szmughal.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=C2F26B&background=080808&center=true&vCenter=true&width=900&height=70&lines=SAAD+ZAFAR+%E2%80%94+IT+MANAGER+%26+AI+AUTOMATION;FROM+THE+PATCH+PANEL+TO+THE+P%26L;ENTERPRISE+INFRASTRUCTURE+%C2%B7+ODOO+ERP+%C2%B7+PYTHON+OCR" alt="Saad Zafar Typing SVG" />
 </a>
 
@@ -9,8 +9,8 @@
 *6+ Years Bridging Enterprise Networks, Endpoint Security, ERP/BI & Full-Stack AI Automation*
 
 <p align="center">
-  <a href="https://saadzafar.vercel.app">
-    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-saadzafar.vercel.app-C2F26B?style=for-the-badge&labelColor=080808&logo=vercel&logoColor=C2F26B" alt="Portfolio" />
+  <a href="https://szmughal.vercel.app">
+    <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-szmughal.vercel.app-C2F26B?style=for-the-badge&labelColor=080808&logo=vercel&logoColor=C2F26B" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/szmughal/">
     <img src="https://img.shields.io/badge/LINKEDIN-szmughal-C2F26B?style=for-the-badge&labelColor=080808&logo=linkedin&logoColor=C2F26B" alt="LinkedIn" />
@@ -91,5 +91,5 @@
 ---
 
 <div align="center">
-  <sub>Built with the <b>Signal</b> design system (`#080808` · `#C2F26B`) · <a href="https://saadzafar.vercel.app">saadzafar.vercel.app</a></sub>
+  <sub>Built with the <b>Signal</b> design system (`#080808` · `#C2F26B`) · <a href="https://szmughal.vercel.app">szmughal.vercel.app</a></sub>
 </div>
