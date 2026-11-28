@@ -1,26 +1,26 @@
 <div align="center">
 
-<!-- 3D EXECUTIVE PORTRAIT -->
+<!-- EXECUTIVE HEADSHOT -->
 <a href="https://szmughal.vercel.app">
-  <img src="https://raw.githubusercontent.com/szmughal/szmughal/main/saad-zafar-3d.jpg" alt="Saad Zafar — 3D Executive Portrait" width="210" style="border-radius: 24px;" />
+  <img src="https://raw.githubusercontent.com/szmughal/szmughal/main/saad-zafar-headshot.jpg" alt="Saad Zafar — IT Systems & Infrastructure Manager" width="190" style="border-radius: 50%; border: 3px solid #C2F26B;" />
 </a>
 
 <br />
 
 <!-- HERO BANNER -->
 <a href="https://szmughal.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3200&pause=1000&color=C2F26B&background=080808&center=true&vCenter=true&width=900&height=70&lines=SAAD+ZAFAR+%E2%80%94+IT+MANAGER+%26+AI+AUTOMATION;FROM+THE+PATCH+PANEL+TO+THE+P%26L;ENTERPRISE+INFRASTRUCTURE+%C2%B7+ODOO+ERP+%C2%B7+PYTHON+OCR" alt="Saad Zafar Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1000&color=C2F26B&background=080808&center=true&vCenter=true&width=900&height=65&lines=SAAD+ZAFAR+%E2%80%94+IT+SYSTEMS+%26+INFRASTRUCTURE+MANAGER;ENTERPRISE+SYSTEMS+%26+AI+AUTOMATION+%7C+8%2B+YEARS;CISCO+%C2%B7+LINUX+%C2%B7+ODOO+ERP+%C2%B7+PYTHON+OCR+PIPELINES" alt="Saad Zafar Typing SVG" />
 </a>
 
-### **IT Manager (Infrastructure, Systems & Digital Operations) at Enter and Post LLC**
-*6+ Years Bridging Enterprise Networks, Endpoint Security, ERP/BI & Full-Stack AI Automation*
+### **IT Systems & Infrastructure Manager | Enterprise Systems & Automation**
+*Karachi, Pakistan (Open to Remote / Relocation) · 8+ Years Architecting Enterprise Infrastructure, Business Systems & Automated Workflows*
 
 <p align="center">
   <a href="https://szmughal.vercel.app">
     <img src="https://img.shields.io/badge/LIVE_PORTFOLIO-szmughal.vercel.app-C2F26B?style=for-the-badge&labelColor=080808&logo=vercel&logoColor=C2F26B" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/szmughal/">
-    <img src="https://img.shields.io/badge/LINKEDIN-szmughal-C2F26B?style=for-the-badge&labelColor=080808&logo=linkedin&logoColor=C2F26B" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-linkedin.com%2Fin%2Fszmughal-C2F26B?style=for-the-badge&labelColor=080808&logo=linkedin&logoColor=C2F26B" alt="LinkedIn" />
   </a>
 </p>
 
@@ -28,28 +28,44 @@
 
 ---
 
-### `01.` Executive Summary
+### `01.` Professional Summary
 
-> **"From the patch panel to the P&L."**
-> I direct complete enterprise IT functions—from physical Cisco networks, Active Directory, Symantec SEPM endpoint protection, and 3-2-1 hybrid backups (`EaseUS` + `Mega Cloud`) to building in-house Python OCR financial pipelines (`Statement Ops`), administering `Odoo ERP` + `Metabase BI`, and shipping **9+ live client production websites** optimized for SEO & AI Answer Engines (`AEO / GEO`).
+> Results-oriented **IT Manager with 8+ years** architecting enterprise infrastructure, business systems, and automated workflows across corporate and multinational banking environments (`Standard Chartered Bank`, `Soneri Bank`, `Universal BrushWares`, `Enter and Post LLC`). Promoted to lead complete IT operations at **Enter and Post LLC**, directing cybersecurity, hybrid cloud backups, Google Workspace, and distributed end-user operations (on-site and remote across time zones) with **99.9% uptime**. Expert in **Odoo**, **Cisco Catalyst routing/switching**, **Linux administration**, and **Active Directory** domains. Combines infrastructure resilience with high-ROI process automation—notably engineering **in-house OCR data extraction pipelines (PDF-to-Excel)** delivering spreadsheets ready for **QuickBooks** (`85%` faster monthly accounting data entry), deploying **9+ live production websites**, and leading technical content & **AEO/GEO** strategies.
 
 | Metric | Impact Delivered |
 | :--- | :--- |
-| **`85%`** | Reduction in monthly accounting data-entry time via **Statement Ops** (in-house Python OCR & mathematical reconciliation engine) |
-| **`9+`** | Live production client websites designed, deployed, and maintained across the US, South Africa & Pakistan |
-| **`6+ Yrs`** | Hands-on enterprise IT leadership across banking (`Standard Chartered`, `Soneri Bank`), manufacturing (`Universal BrushWares`), and US financial ops (`Enter and Post LLC`) |
+| **`8+ Yrs`** | Enterprise IT leadership across multinational banking (`Standard Chartered`, `Soneri Bank`), manufacturing (`Universal BrushWares`), and US financial ops (`Enter and Post LLC`) |
+| **`99.9%`** | Uptime across enterprise network infrastructure, Google Workspace, hybrid cloud backups (`Mega Cloud` + `EaseUS Todo Backup`), and multi-time-zone operations |
+| **`85%`** | Reduction in monthly accounting data-entry time via **Statement Ops** (in-house Python OCR & mathematical verification pipeline exporting QuickBooks-ready `.xlsx` / `CSV` batches) |
+| **`9+`** | Live production client websites designed, deployed, and maintained with full DNS, SSL, CDN, Technical SEO, and **AEO/GEO** |
 
 ---
 
-### `02.` Featured Engineering Case Study — **Statement Ops**
+### `02.` Core Technical Competencies
 
-**Financial Extraction & Mathematical Reconciliation Engine (`Enter and Post LLC`)**
-- **Problem**: Multi-page scanned bank statements and PDF invoices required hours of manual bookkeeping entry and row-by-row balance verification.
-- **Architecture**: Built an in-house OCR extraction platform that parses PDF statements into structured transactions, runs automated mathematical reconciliation (`Opening Balance + Total Credits − Total Debits = Closing Balance`), flags row-level variances, and exports one-click **Excel (`.xlsx`)**, **CSV**, **PDF Summary**, and **QuickBooks-ready** batches.
+- **Infrastructure & Cloud Administration**: Cisco Catalyst routing/switching, LAN architecture, Linux server administration, Active Directory, DNS/DHCP, firewall monitoring, remote VPN gateways, Google Workspace enterprise administration.
+- **Business Systems & Applications**: Odoo (`Inventory`, `Sales`, `Purchase`, `Manufacturing` modules), custom form engineering, PostgreSQL database management, Metabase analytics dashboards, Shopify e-commerce integration.
+- **Custom Automation & OCR Engineering**: In-house OCR document processing pipelines (automated extraction of scanned financial PDFs/invoices into structured Excel `.xlsx` spreadsheets ready for QuickBooks), Python automation, agentic AI workflows (`Claude Code`, `Antigravity`, `ChatGPT`), web scraping.
+- **Security & Business Continuity**: Symantec Endpoint Protection (`Symantec SEPM`), domain authentication (`SPF`, `DKIM`, `DMARC`), email security hygiene, hybrid cloud backups (`Mega Cloud` with `EaseUS Todo Backup` local mirror), disaster recovery planning, Hikvision IP surveillance.
+- **Unified Communications & Telephony**: Asterisk PABX telephony, Avaya IP phones, MDaemon mail server, enterprise Zoom/Teams collaboration architecture.
+- **Web Architecture & Digital Operations**: WordPress & Elementor, custom static & Next.js websites, 9+ live production website deployments, technical blog writing & SEO content strategy, Answer Engine Optimization (`AEO/GEO`), GoHighLevel CRM workflows.
 
 ---
 
-### `03.` Live Production Web Architecture (`9 Client Deployments`)
+### `03.` Career Timeline
+
+| Period | Role | Organization | Key Deliverables |
+| :--- | :--- | :--- | :--- |
+| **Jul 2025 – Present** | **IT Manager (Infrastructure, Systems & Digital Operations)** | **Enter and Post LLC** *(Karachi)* | Sole IT authority; engineered **Accounting OCR Pipeline** (85% faster QuickBooks entry); Google Workspace, Symantec SEPM, SPF/DKIM/DMARC, Mega Cloud + EaseUS hybrid backups, AI lead scrapers & AEO/GEO |
+| **Mar 2024 – Jun 2025** | **Assistant Manager – IT, Web Development & Marketing** | **Enter and Post LLC** *(Karachi)* | Office LAN engineering; deployed & maintained production websites with DNS/SSL/CDN; first-page Google SEO content & GoHighLevel CRM automation |
+| **Dec 2021 – Mar 2024** | **Senior IT Executive** | **Universal BrushWares** *(Karachi)* | Cisco production/office network stack; Odoo ERP (`Inventory`, `Sales`, `Purchase`, `Manufacturing`); PostgreSQL + Metabase BI dashboards; Asterisk PABX & Hikvision IP surveillance; 30-day Odoo snapshots & Shopify B2C sync |
+| **Aug 2021 – Dec 2021** | **Resident Engineer (Deputed to Soneri Bank)** | **BCI Pvt Ltd** *(Karachi)* | Tier-1/2 banking systems support under strict SLA deadlines; Active Directory domain joins, branch network troubleshooting & regulatory audit logging |
+| **Feb 2021 – Aug 2021** | **IT Support Engineer** | **Efrotech Services** *(Karachi)* | Monitored network racks, switches, Active Directory, DNS, DHCP, firewalls, file servers & MDaemon mail server; hardware procurement |
+| **Aug 2018 – Jan 2021** | **IT Support Specialist (Deputed to Standard Chartered Bank)** | **Inbox Business Technologies** *(Karachi)* | Enterprise workstation hardening to Standard Chartered global security baselines; Avaya IP phones & banking apps; Karachi-wide ATM field IT operations |
+
+---
+
+### `04.` Live Production Web Architecture (`9 Client Deployments`)
 
 | # | Project / Client | Live Domain | Focus & Deliverables |
 | :-: | :--- | :--- | :--- |
@@ -65,32 +81,12 @@
 
 ---
 
-### `04.` Core Technical Stack
+### `05.` Education & Technical Credentials
 
-#### **Enterprise Infrastructure, Networking & Endpoint Security**
-![Cisco](https://img.shields.io/badge/Cisco_Routing_%26_Switching-080808?style=flat-square&logo=cisco&logoColor=C2F26B)
-![Windows Server](https://img.shields.io/badge/Windows_Server_%26_AD-080808?style=flat-square&logo=windows&logoColor=C2F26B)
-![Symantec SEPM](https://img.shields.io/badge/Symantec_SEPM-080808?style=flat-square&logo=symantec&logoColor=C2F26B)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace_Admin-080808?style=flat-square&logo=google&logoColor=C2F26B)
-![Email Security](https://img.shields.io/badge/SPF_%C2%B7_DKIM_%C2%B7_DMARC-080808?style=flat-square&logo=cloudflare&logoColor=C2F26B)
-![Hybrid Backup](https://img.shields.io/badge/3--2--1_Hybrid_Backup_(EaseUS_%2B_Mega)-080808?style=flat-square&logo=icloud&logoColor=C2F26B)
-![Asterisk PABX](https://img.shields.io/badge/Asterisk_PABX_%26_Hikvision_IP-080808?style=flat-square&logo=asterisk&logoColor=C2F26B)
-
-#### **ERP, Databases & Business Intelligence**
-![Odoo ERP](https://img.shields.io/badge/Odoo_ERP_(Inventory_·_Sales_·_MRP)-080808?style=flat-square&logo=odoo&logoColor=C2F26B)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-080808?style=flat-square&logo=postgresql&logoColor=C2F26B)
-![Metabase BI](https://img.shields.io/badge/Metabase_BI-080808?style=flat-square&logo=metabase&logoColor=C2F26B)
-![QuickBooks](https://img.shields.io/badge/QuickBooks_Pipelines-080808?style=flat-square&logo=intuit&logoColor=C2F26B)
-
-#### **Web Architecture, AI Automation & Search Growth (SEO / AEO / GEO)**
-![Python](https://img.shields.io/badge/Python_OCR_Pipelines-080808?style=flat-square&logo=python&logoColor=C2F26B)
-![Next.js](https://img.shields.io/badge/Next.js_14-080808?style=flat-square&logo=nextdotjs&logoColor=C2F26B)
-![TypeScript](https://img.shields.io/badge/TypeScript-080808?style=flat-square&logo=typescript&logoColor=C2F26B)
-![React](https://img.shields.io/badge/React-080808?style=flat-square&logo=react&logoColor=C2F26B)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-080808?style=flat-square&logo=tailwindcss&logoColor=C2F26B)
-![WordPress](https://img.shields.io/badge/WordPress_%26_Elementor-080808?style=flat-square&logo=wordpress&logoColor=C2F26B)
-![AI Workflows](https://img.shields.io/badge/Claude_Code_%C2%B7_OpenAI_%C2%B7_AEO%2FGEO-080808?style=flat-square&logo=openai&logoColor=C2F26B)
-![GoHighLevel](https://img.shields.io/badge/GoHighLevel_CRM_%26_Mailchimp-080808?style=flat-square&logo=mailchimp&logoColor=C2F26B)
+- **Master of Computer Science (MCS)** — University of Karachi (`2015 – 2016`)
+- **Bachelor of Science (BSc)** — University of Karachi (`2012 – 2013`)
+- **Networking & Infrastructure Training**: Cisco Certified Network Associate (**CCNA**) Curriculum — Core Routing, Switching, Subnetting, VLANs & Network Security
+- **Languages**: English *(Professional Working Proficiency)* | Urdu *(Native)*
 
 ---
 
