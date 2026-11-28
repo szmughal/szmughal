@@ -1,8 +1,8 @@
 <div align="center">
 
-<!-- EXECUTIVE HEADSHOT -->
+<!-- 3D EXECUTIVE PORTRAIT -->
 <a href="https://szmughal.vercel.app">
-  <img src="https://raw.githubusercontent.com/szmughal/szmughal/main/saad-zafar-headshot.jpg" alt="Saad Zafar — IT Systems & Infrastructure Manager" width="190" style="border-radius: 50%; border: 3px solid #C2F26B;" />
+  <img src="https://raw.githubusercontent.com/szmughal/szmughal/main/saad-zafar-3d.jpg" alt="Saad Zafar — IT Systems & Infrastructure Manager" width="190" style="border-radius: 50%; border: 3px solid #C2F26B;" />
 </a>
 
 <br />
