@@ -22,9 +22,6 @@
   <a href="https://www.linkedin.com/in/szmughal/">
     <img src="https://img.shields.io/badge/LINKEDIN-szmughal-C2F26B?style=for-the-badge&labelColor=080808&logo=linkedin&logoColor=C2F26B" alt="LinkedIn" />
   </a>
-  <a href="mailto:saad.zafar060@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-saad.zafar060%40gmail.com-C2F26B?style=for-the-badge&labelColor=080808&logo=gmail&logoColor=C2F26B" alt="Email" />
-  </a>
 </p>
 
 </div>
